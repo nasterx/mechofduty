@@ -1,4 +1,9 @@
 *.log
 *.pot
 *.pyc
+*.db
+.project
+.pydevproject
+.settings
 local_settings.py
+*/migrations/*
